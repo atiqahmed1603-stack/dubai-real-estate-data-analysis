@@ -1,0 +1,22 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Local SQLTools / database session files
+*.session.sql
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
