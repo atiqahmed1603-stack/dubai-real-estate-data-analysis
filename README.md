@@ -77,7 +77,7 @@ The official dataset is used for the primary Dubai real estate market analysis a
 
 - Source: Dubai Land Department (DLD)
 - Coverage: 2016–2026
-- Contains transaction-level aggregated records by property type, transaction type, year, and quarter
+- Contains aggregated transaction records by property type, transaction type, year, and quarter
 - Used for market trends, transaction activity, transaction value analysis, and business insights
 - Official data is kept separate from the synthetic dataset
 
