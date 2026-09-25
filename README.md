@@ -67,6 +67,36 @@ The Power BI dashboard provides an interactive view of Dubai real estate transac
 
 ![Business Insights](screenshots/page3_business_insights.png)
 
+## 📂 Dataset Information
+
+This project uses two separate datasets for different analytical purposes.
+
+### 🏛️ Official Dubai Land Department (DLD) Data
+
+The official dataset is used for the primary Dubai real estate market analysis and Power BI dashboard.
+
+- Source: Dubai Land Department (DLD)
+- Coverage: 2016–2026
+- Contains transaction-level aggregated records by property type, transaction type, year, and quarter
+- Used for market trends, transaction activity, transaction value analysis, and business insights
+- Official data is kept separate from the synthetic dataset
+
+### 🧪 Synthetic Real Estate Dataset
+
+A separate synthetic dataset was created to practice real-world data analyst workflows involving messy data.
+
+It was used for:
+
+- Data cleaning and validation
+- Missing-value handling
+- Duplicate detection and removal
+- Data-quality checks
+- PostgreSQL / SQL analysis
+- Outlier investigation
+- Advanced SQL techniques
+
+**Important:** The synthetic dataset is used for analytical practice and SQL/cleaning demonstrations. It should not be interpreted as official Dubai real estate market data.
+
 ## 🗂️ Project Structure
 
 ```text
