@@ -51,6 +51,22 @@ The analysis of official Dubai Land Department (DLD) data produced the following
 
 - **Transaction values vary by quarter** — The First and Fourth Quarters record the highest total transaction values, while the Third Quarter records the lowest, indicating noticeable quarterly variation.
 
+- ## 📊 Dashboard Preview
+
+The Power BI dashboard provides an interactive view of Dubai real estate transaction activity, transaction value, property types, trends, and key business insights.
+
+### Page 1 — Market Overview
+
+![Market Overview](screenshots/page1_market_overview.png)
+
+### Page 2 — Property Type & Transaction Analysis
+
+![Property Type & Transaction Analysis](screenshots/page2_market_analysis.png)
+
+### Page 3 — Business Insights & Key Findings
+
+![Business Insights](screenshots/page3_business_insights.png)
+
 ## 🗂️ Project Structure
 
 ```text
