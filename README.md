@@ -27,6 +27,15 @@ The main objectives of this project are to:
 - Clean and validate a messy real estate dataset
 - Build an interactive Power BI dashboard
 - Develop business insights from the analysis
+- 
+- ## 🛠️ Tools & Technologies
+
+- **Python / Pandas** — Data cleaning, exploration, validation, and analysis
+- **PostgreSQL / SQL** — Data querying, aggregation, trend analysis, and advanced SQL analysis
+- **Power BI** — Interactive dashboard development and data visualization
+- **Jupyter Notebook** — Python-based exploratory data analysis
+- **Git & GitHub** — Version control and project documentation
+- **VS Code** — Development environment
 
 ## 🗂️ Project Structure
 
